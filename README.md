@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/58cb9f96-311e-411c-a408-93c01a3eac0c)
+
 ## Pet Simulator X:  A Deeper Dive into the World of Pets
 
 This repository contains a script designed to enhance your experience in Pet Simulator X, the popular Roblox game where you collect, breed, and battle pets.  It's not about gaining an unfair advantage, it's about gaining a deeper understanding of the game's mechanics and environment.
